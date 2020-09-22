@@ -7,3 +7,4 @@ private $host = "127.0.0.1";
         private $password = "123456";
 </pre>        
  </p>
+<p> API URL: URL/api/alldata.php </p>
